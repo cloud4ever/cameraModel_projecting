@@ -2,5 +2,6 @@
 
 camera intrisinc
   fx, fy, cx, cy
+  
 camera extrisinc
   R, t
